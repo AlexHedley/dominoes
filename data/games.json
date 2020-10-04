@@ -1,0 +1,14 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "name": "Game 1",
+            "date": "2020-10-04",
+            "description": "",
+            "winner": "Courtney",
+            "winner_count": 12,
+            "loser": "Alex",
+            "loser_count": 50
+        }
+    ]
+}
