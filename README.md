@@ -1,5 +1,7 @@
 # Dominoes
 
+![Dominoes](images/dominoes.png "Dominoes")
+
 - [Site](https://alexhedley.github.io/dominoes/)
 
 Dominoes Scores
